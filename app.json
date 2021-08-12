@@ -1,0 +1,12 @@
+{
+  "name": "numerology_app",
+  "displayName": "numerology_app",
+  "expo": {
+    "name": "numerology_app",
+    "slug": "numerology_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
