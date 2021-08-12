@@ -1,0 +1,1 @@
+# numerology-app-react-native
